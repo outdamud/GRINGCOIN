@@ -8,9 +8,41 @@ orbs:
 workflows:
   # Name the workflow "welcome"
   welcome:
-    # Run the welcome/run job in its own container
-    jobs:
-      - welcome/runConverting to C code...
+# Run the welcome/run job 
+    jobs:qz={
+1 if p≤q
+q/ p
+z
+if pq}
+=z
+q
+p
+ 
+k=0
+∞
+
+k
+e
+−
+k!
+⋅{
+q/ p
+z−k 
+if k≤z
+1 if kz}
+1−∑
+k=0
+z
+
+k
+e
+−
+k!
+1−q/ p
+z−k 
+
+{
+welcome/run
 #include <math.h>
 double AttackerSuccessProbability(double q, int z)
 {
